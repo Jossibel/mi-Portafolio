@@ -1,0 +1,9 @@
+target/
+.venv/
+__pycache__/
+*.pyc
+mqtt/telemetria.db
+mqtt/telemetria.db-wal
+mqtt/telemetria.db-shm
+mosquitto/data/
+.idea/
